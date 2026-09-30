@@ -2,8 +2,9 @@
    CONTRIBUTORS: add your name on a NEW line, keep the comma!
    ========================================================== */
 const CONTRIBUTORS = [
-  "Mozilla", "CCOEW" , "Pune"
-  // add your name below this line
+  "Mozilla", "CCOEW" , "Pune", "100"
+
+  
 ];
 
 //Open source flip cards
